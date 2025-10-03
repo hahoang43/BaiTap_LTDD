@@ -19,6 +19,7 @@ Mục tiêu:
 - Làm quen với Android UI cơ bản (ImageView, TextView, LinearLayout/ConstraintLayout).
 - Hiển thị thông tin cá nhân (ảnh đại diện, tên, địa chỉ).
 - Push code lên GitHub.
+
 Kết quả đạt được:
 - Ứng dụng Android hiển thị màn hình với ảnh đại diện, tên, địa chỉ như trong hình.
 
