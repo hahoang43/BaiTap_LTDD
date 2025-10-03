@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BT_Tuan1</string>
+    <string name="back">Nút quay lại</string>
+    <string name="edit">Nút chỉnh sửa</string>
+    <string name="profile_name">Johan Smith</string>
+    <string name="profile_location">California, USA</string>
+</resources>
