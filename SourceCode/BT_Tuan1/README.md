@@ -24,4 +24,4 @@ Kết quả đạt được:
 - Ứng dụng Android hiển thị màn hình với ảnh đại diện, tên, địa chỉ như trong hình.
 
 Output:
-![alt text](Screenshot_20251003_095628-1.png)
+![alt text](output.png)
