@@ -14,6 +14,7 @@ Theo em, trong 10 năm tới lập trình di động sẽ tiếp tục phát tri
 - Công nghệ mới như AI, AR/VR đang được tích hợp vào ứng dụng di động.
 
 Câu 3: Viết một ứng dụng có UI như sau đẩy lên github
+
 Mục tiêu:
 - Làm quen với Android UI cơ bản (ImageView, TextView, LinearLayout/ConstraintLayout).
 - Hiển thị thông tin cá nhân (ảnh đại diện, tên, địa chỉ).
