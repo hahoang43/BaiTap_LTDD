@@ -62,7 +62,7 @@ fun ComponentDetailScreen(navController: NavController, type: String) {
                     }
                     withStyle(
                         style = SpanStyle(
-                            color = Color(0xFFB87333),
+                            color = Color(0xFFFC0505),
                             fontWeight = FontWeight.Bold
                         )
                     ) {
